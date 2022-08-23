@@ -77,3 +77,7 @@ My like IDE
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<p>
+    <span>api_yamdb © 2022, developer git: 26Remph ツ </span>
+</p>
+
