@@ -17,10 +17,12 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=26Remph&style=flat-square&color=blue" alt=""/>
 <div>
+    <br>
     <img src="https://media.giphy.com/media/xUPGcplmWEh9p770ha/giphy.gif" width="60px"/>
 </div>
-  <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Python+developer.;Temet+nosce." alt="Typing SVG" /></a>  </div> 
+    <div>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Python+developer.;Temet+nosce." alt="Typing SVG" /></a>  
+    </div> 
 </div>
 
 <div align="center">
@@ -42,8 +44,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <hr> 
 
-### Languages and Tools :
-#### Mainstream technology stack
+#### Mainstream technology stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -56,9 +57,10 @@ You can click the Preview link to take a look at your changes.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
 
-#### Like IDE & OS & Other tool
+#### Like IDE & OS & Other tool:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -68,8 +70,11 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-#### Leetcode progress  
+<details>
+<summary> Leetcode progress </summary>
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=remph&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+</details>
 <hr> 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
