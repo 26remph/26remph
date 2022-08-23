@@ -1,5 +1,6 @@
+<br>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ARRYsgvpXLCkGrB8AD/giphy.gif" width="100px"/>
+  <img src="./static/ava-01.png" width="80px"/>
 <div id="badges">
     <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -35,7 +36,7 @@
 #### 🤍 About me:
 Computers are the love of childhood. My first program was written on a piece of paper. My life path has sometimes moved a little away from this passion, but love has only become stronger. Now and further, this is my main path.  
 
-A couple of years ago I watched the movie: 'Altered Carbon' and it inspired me even more to create history. I changed my stack to the direction of backend development because I like how things and processes work at the lowest level, to get into their essence. I have a dream. It's nice to know that the whole road to it is still ahead.
+A couple of years ago I watched the movie: 'Altered Carbon' and it inspired me even more to create history. I changed my stack to the direction of backend development, because I like how things and processes work at the lowest level, to get into their essence. I have a dream. It's nice to know, that the whole road to it is still ahead.
 <!---
 Компьютеры - это любовь детства. Моя первая программа была написана на листочке. Мой жизненный путь иногда немного удалялся от этой страсти, но любовь стала только сильней. Сейчас и далее это мой основной путь. Пару лет назад я посмотрел фильм: Видоизмененный углерод и он вдохновил меня еще сильней, на то, чтобы сотворить историю. Я поменял свой стек, на направление бэкэнд разработки, потому что мне нравится как устроены вещи и процессы на самом низком уровне, проникать в их сущность. У меня есть мечта. Приятно осознавать, что вся дорога к ней еще впереди.
 --->
