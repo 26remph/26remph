@@ -27,8 +27,9 @@
   <img src="./static/developer.gif" width="600"/>
 </div>
 
----
-### about me:
+<hr>
+
+#### About me:
 
 👋 C детства 👀 люблю компьютеры Мой путь немного вилял всю жизнь но любовь непрошла Я вернулся что бы остаться здесь до конца жизни. Я вернулся что бы сотворить  историю. 🌱 Соединить живое с неживым. Я в самом начале пути. Но это и есть приятно потому что вся дорога еще впереди и каждый шаг это что то новое.
 <!---
@@ -39,7 +40,8 @@
 26remph/26remph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
----
+<hr> 
+
 ### Languages and Tools :
 #### Mainstream technology stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -64,13 +66,14 @@ You can click the Preview link to take a look at your changes.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
----
+<hr>
+
 #### Leetcode progress  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=remph&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  
----
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=remph&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<hr> 
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p>
-    <span> public profile © 2022, remph ツ </span>
+    <span> public git profile © 2022, created by remph ツ </span>
 </p>
-
