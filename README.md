@@ -1,6 +1,6 @@
 <br>
 <div id="header" align="center">
-  <img src="./static/ava-01.png" width="80px"/>
+  <img src="https://media.giphy.com/media/6xbleFxjtKo5HhiOC7/giphy.gif" width="100px"/>
 <div id="badges">
     <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
