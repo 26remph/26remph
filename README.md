@@ -1,27 +1,28 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ARRYsgvpXLCkGrB8AD/giphy.gif" width="100px"/>
-
 <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-reddit-URL">
+    <a href="https://www.reddit.com/user/__Remph__">
       <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
-    <a href="your-telegram-URL">
+    <a href="https://t.me/vvbars">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="your-slack-URL">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge"/>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=26Remph&style=flat-square&color=blue" alt=""/>
+<br>
+<br>
+<br>
 <div>
-    <br>
     <img src="https://media.giphy.com/media/xUPGcplmWEh9p770ha/giphy.gif" width="60px"/>
 </div>
     <div>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Python+developer.;Temet+nosce." alt="Typing SVG" /></a>  
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Python+developer;Temet+nosce" alt="Typing SVG" /></a>  
     </div> 
 </div>
 
@@ -32,15 +33,9 @@
 <hr>
 
 #### About me:
-
-👋 C детства 👀 люблю компьютеры Мой путь немного вилял всю жизнь но любовь непрошла Я вернулся что бы остаться здесь до конца жизни. Я вернулся что бы сотворить  историю. 🌱 Соединить живое с неживым. Я в самом начале пути. Но это и есть приятно потому что вся дорога еще впереди и каждый шаг это что то новое.
+Computers are the love of childhood. My first program was written on a piece of paper. My life path has sometimes moved a little away from this passion, but love has only become stronger. Now and further, this is my main path. A couple of years ago I watched the movie: 'Altered Carbon' and it inspired me even more to create history. I changed my stack to the direction of backend development because I like how things and processes work at the lowest level, to get into their essence. I have a dream. It's nice to know that the whole road to it is still ahead.
 <!---
-
-После заголовка принято рассказывать о себе, представлять свои навыки, возможности и давать ссылки для обратной связи. Это, конечно же, необязательное условие, можно расположить блоки в любой последовательности, но в этой части статьи рассмотрим именно те инструменты, которые помогут организовать блок «О себе».
---->
-<!---
-26remph/26remph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Компьютеры - это любовь детства. Моя первая программа была написана на листочке. Мой жизненный путь иногда немного удалялся от этой страсти, но любовь стала только сильней. Сейчас и далее это мой основной путь. Пару лет назад я посмотрел фильм: Видоизмененный углерод и он вдохновил меня еще сильней, на то, чтобы сотворить историю. Я поменял свой стек, на направление бэкэнд разработки, потому что мне нравится как устроены вещи и процессы на самом низком уровне, проникать в их сущность. У меня есть мечта. Приятно осознавать, что вся дорога к ней еще впереди.
 --->
 <hr> 
 
@@ -48,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
