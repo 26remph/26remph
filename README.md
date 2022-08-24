@@ -77,5 +77,6 @@ A couple of years ago I watched the movie: 'Altered Carbon' and it inspired me e
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p>
+    <img align="center" src="./static/fav.svg" title="home page"/>
     <span> public git profile © 2022, created by remph ツ </span>
 </p>
