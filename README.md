@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/6xbleFxjtKo5HhiOC7/giphy.gif" width="100px"/>
 <div id="badges">
-    <a href="#">
+    <a href="https://www.linkedin.com/in/vvbars/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.reddit.com/user/__Remph__">
