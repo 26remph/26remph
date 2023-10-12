@@ -67,11 +67,10 @@ A couple of years ago I watched the movie: 'Altered Carbon' and it inspired me e
 
 <hr>
 
-<details>
 <summary> Leetcode progress </summary>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=remph&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-</details>
+
 <hr> 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
