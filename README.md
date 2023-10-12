@@ -78,5 +78,5 @@ A couple of years ago I watched the movie: 'Altered Carbon' and it inspired me e
 
 <p>
     <img align="center" src="./static/fav.svg" title="home page"/>
-    <span> public git profile © 2022, created by remph ツ </span>
+    <span> public git profile © 2023, created by remph ツ </span>
 </p>
