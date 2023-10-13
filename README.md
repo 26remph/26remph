@@ -106,9 +106,6 @@ I love to create. Every time I experience happiness when thoughts become reality
 
 <hr>
 
-<div>
-  <img src="https://media.giphy.com/media/xUPGcplmWEh9p770ha/giphy.gif" align=center width="60px"/>
-</div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -116,3 +113,7 @@ I love to create. Every time I experience happiness when thoughts become reality
     <img align="center" src="./static/fav.svg" title="home page"/>
     <span> public git profile © 2023, created by remph ツ </span>
 </p>
+<div id="footer" align="center">
+    <img src="https://media.giphy.com/media/xUPGcplmWEh9p770ha/giphy.gif" align=center width="60px"/>
+</div>
+
