@@ -103,7 +103,7 @@ Pycharm • macOS • Postman • html5 • css3 • bootstrap • gitlab • gi
 
 <p>
     <img align="center" src="./static/fav.svg" title="home page"/>
-    <span> public git profile © 2023, created by remph ツ </span>
+    <span> public git profile © 2024, created by remph ツ </span>
 </p>
 <div id="footer" align="center">
     <img src="https://media.giphy.com/media/xUPGcplmWEh9p770ha/giphy.gif" align=center width="60px"/>
