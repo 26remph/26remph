@@ -57,8 +57,7 @@ I love to create. Every time I experience happiness when thoughts become reality
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
 ![Auth](https://img.shields.io/badge/auth0-black?style=for-the-badge&logo=auth0)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
@@ -77,8 +76,8 @@ Pycharm • macOS • Postman • html5 • css3 • bootstrap • gitlab • gi
 <hr>
 
 #### My strengths
+- Programming machhines and equipment
   - Video processing and video adversting 
-  - Programming machhines and equipment
   - Finance and Information Management 
 
 #### Recent Achivment
