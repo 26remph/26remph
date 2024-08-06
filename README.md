@@ -92,8 +92,7 @@ Pycharm • macOS • Postman • html5 • css3 • bootstrap • gitlab • gi
 
 #### ⚪  Algorithm progress on leetcode:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=remph&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=remph&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <hr>
 
 
